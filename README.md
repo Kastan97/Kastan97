@@ -1,34 +1,33 @@
 <p align="center">
-  <img src="banner.png" alt="raileon. Managed automation, run by people." width="100%">
+  <a href="https://raileon.com"><img src="banner.png" alt="raileon. Custom systems, built and run for your business." width="100%"></a>
 </p>
 
-# SkyRaileon
+<p align="center">
+  <a href="https://raileon.com"><b>raileon.com</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/SkyRaileon">@SkyRaileon</a> &nbsp;·&nbsp;
+  <a href="https://raileon.com/tools/business-checkup">Free Business Checkup</a> &nbsp;·&nbsp;
+  <a href="https://raileon.com/book">Book a call</a>
+</p>
 
-**[Raileon](https://raileon.com)** · Managed automation for businesses, run by people · Miami, FL
+## Raileon
 
-We build and run the automation behind companies' leads, reviews, reporting and back office, inside the tools they already use. Built for the owner who gets the 7 AM phone call, not for the demo.
+Software, automation, AI and training, under one roof. Raileon is a full-stack development company in Miami, Florida. We build the systems behind a business, inside the tools it already uses, and keep them running.
 
-## What we're building
+- **[Custom Software](https://raileon.com/custom-software-development):** private dashboards, customer portals, internal tools and links between your systems.
+- **[Automation](https://raileon.com/business-process-automation):** lead follow-up, client intake, reporting and CRM updates, run and kept working by us.
+- **[Custom AI Modules](https://raileon.com/ai-systems-development):** AI that knows your business and asks before anything important.
+- **[LLM Development](https://raileon.com/llm-development):** an open model trained on your company's own data, running on your own systems.
+- **[Team Training](https://raileon.com/services):** hands-on sessions so your people get the most from what we built.
+- **[Raileon Social](https://raileon.com/social-media-management) and [Raileon Ads](https://raileon.com/ppc-management):** weekly posts, and ads tied to the calls and leads they bring in.
 
-- **[Raileon](https://raileon.com)** — managed automation: we design, build and operate it; the owner approves what matters. Family offices and multi-entity operators first; local businesses through the Site Audit.
-- **Mission Control** — the private command center our clients see: every system at work, every approval in one queue, one audit log. Private repo.
-- **Raileon Site Audit** — a business-visibility audit: Google reviews, Business Profile, search, website speed, security and accessibility, scored against three local competitors, with the five fixes that matter most.
+## Free tool
+
+**[Business Checkup](https://raileon.com/tools/business-checkup):** see what's costing you customers on Google.
 
 ## Open source
 
-- **[desktop-broom](https://github.com/Kastan97/desktop-broom)** — 🧹 AI-powered desktop organizer for Windows.
-- **[openclaw](https://github.com/Kastan97/openclaw)** — fork of the open-source personal AI assistant that runs our assistant deployments.
-
-## Stack
-
-`Next.js` `Node` `TypeScript` `Python` `OpenClaw` `Claude` `DeepSeek` `ComfyUI` `Vercel` `AWS`
-
-## How we work
-
-- Ship in days, measure weekly.
-- Approvals before autonomy: nothing sends, pays or books on its own until the owner says so.
-- Only claims we can keep. No "24/7", no certifications we don't hold, no invented results.
+- **[desktop-broom](https://github.com/Kastan97/desktop-broom):** an AI desktop organizer for Windows.
 
 ## Contact
 
-[raileon.com](https://raileon.com) · admin@raileon.com · Miami, Florida
+[raileon.com](https://raileon.com) · admin@raileon.com · (786) 733-8337 · Miami, Florida
