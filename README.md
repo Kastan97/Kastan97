@@ -30,4 +30,4 @@ Software, automation, AI and training, under one roof. Raileon is a full-stack d
 
 ## Contact
 
-[raileon.com](https://raileon.com) · admin@raileon.com · (786) 733-8337 · Miami, Florida
+[raileon.com](https://raileon.com) · hello@raileon.com · (786) 733-8337 · Miami, Florida
