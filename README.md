@@ -28,6 +28,10 @@ Software, automation, AI and training, under one roof. Raileon is a full-stack d
 
 - **[desktop-broom](https://github.com/Kastan97/desktop-broom):** an AI desktop organizer for Windows.
 
+## Follow Raileon
+
+[Instagram](https://www.instagram.com/raileonai) · [TikTok](https://www.tiktok.com/@raileonai) · [YouTube](https://www.youtube.com/@raileonai) · [X](https://x.com/RaileonAi) · [Facebook](https://www.facebook.com/raileonai)
+
 ## Contact
 
 [raileon.com](https://raileon.com) · hello@raileon.com · (786) 733-8337 · Miami, Florida
